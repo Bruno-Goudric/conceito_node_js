@@ -1,14 +1,7 @@
 <img alt="GoStack" src="https://i.imgur.com/2l1FtY3.png" />
 
 <h1 align="center"> Desafio 01: Conceitos NodeJS </h1>
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Bruno-Goudric
-/conceitos_node_js?color=%2304D361">
 
-  <a href="https://github.com/wltjunior92/desafio-conceitos-nodejs/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/Bruno-Goudric/conceitos_node_js?style=social">
-  </a>
-</p>
 
 ## Features
 Para o desenvolvimento do projeto foi utilizada uma stack com as seguintes tecnologias:
